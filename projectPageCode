@@ -1,5 +1,4 @@
 
-
 /* point to the flv container and video */
 
 <embed type="application/x-shockwave-flash" src="http://www.ddb.com/fsVideoTest/Cargo_vcr.swf?vid=http://www.ddb.com/fsVideoTest/fsBU.flv" style="position: fixed; top: 0px; left: 0px; bottom: 0px; right: 0px; width: 100%; height: 100%;" id="flashObject" name="flashObject" bgcolor="#000000" menu="no" quality="high" wmode="opaque" wmode="transparent" />
@@ -8,4 +7,4 @@
 
 /* fall back image for the video */
 
-<style type="text/css">body{background-image:url(url_of_image_here.jpg); background-size:cover; background-position:center center;}</style>
+<style type="text/css">body{background-image:url(http://payload124.cargocollective.com/1/9/289671/4791114/5864463293_bea3c14aa4_b_o.jpg); background-size:cover; background-position:center center;}</style>
