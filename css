@@ -1,5 +1,3 @@
-/* full modified css */
-
 /*
  * Global Limelight styles
  */
@@ -1215,4 +1213,9 @@ a#fullscreen:active {
 .homepage_head_text_sm a {
     color: #e1e0e0 !important; 
 }
+
+/* fullscreen video */
+
+<style type="text/css">.project_footer, .project_bottom { display: none !important; }</style>
+
 ​
